@@ -19,7 +19,7 @@ import java.awt.event.ActionEvent;
 
 public class PanelTipoMueble extends JPanel {
 	
-	Tipomueble actual = new Tipomueble();
+	Tipomueble actual = new Tipomueble();  
 	
 	private JTextField jtfId;
 	private JTextField jtfDescripcion;
